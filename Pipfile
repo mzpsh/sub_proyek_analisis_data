@@ -15,6 +15,7 @@ plotly = "*"
 kaleido = "*"
 streamlit-extras = "*"
 ipykernel = "*"
+statsmodels = "*"
 
 [dev-packages]
 

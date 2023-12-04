@@ -21,8 +21,6 @@ left_column, right_column = st.columns(2)
 starting_date = left_column.date_input('Tanggal Awal', value=min_date, min_value=min_date, max_value=max_date)
 days = right_column.slider('Jangka (Hari)', min_value=30, max_value=180, value=60)
 ending_date = starting_date + timedelta(days=days) 
-st.write(ending_date)
-
 
 ### DataFrame filter
 df_date_filtered = df[
