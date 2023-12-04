@@ -6,5 +6,5 @@
 `streamlit run dashboard/Dashboard.py`
 
 ## External Link
-Streamlit Cloud: [Link](https://mzpsh-dashboard-proyek-analisis-data-dashboard-itvlew.streamlit.app/)
+Streamlit Cloud: [Link](https://mzpsh-sub-proyek-analisis-data-dashboarddashboard-k04dlh.streamlit.app/)
 ![Screenshot](screenshot.png)
